@@ -607,6 +607,5 @@ namespace OLED {
         loadStarted = false
         loadPercent = 0
         clear()
-        writeString("hello")
     }
 } 
